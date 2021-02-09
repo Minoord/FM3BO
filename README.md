@@ -8,6 +8,6 @@ Gemaakt door Michelle, Bram en Martijn
 {Insert game installation} 
 
 
-##Trello board
+## Trello board
 Trello link: https://trello.com/b/AhGQFuOc/bo-yes 
 
