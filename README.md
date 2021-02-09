@@ -7,3 +7,7 @@ Gemaakt door Michelle, Bram en Martijn
 ## Installation
 {Insert game installation} 
 
+
+##Trello board
+Trello link: https://trello.com/b/AhGQFuOc/bo-yes 
+
