@@ -1,4 +1,4 @@
-## {Insert naam} 
+## Demonaniac
 Gemaakt door Michelle, Bram en Martijn 
 
 ## How to Install
